@@ -1,0 +1,16 @@
+#pragma once
+#define ADD_DECK "ADD_DECK"
+#define DEL_DECK "DEL_DECK"
+#define DEL_CARD "DEL_CARD"
+#define ADD_CARDS "ADD_CARDS"
+#define DECK_NUMBER "DECK_NUMBER"
+#define DECK_LEN "DECK_LEN"
+#define SHUFFLE_DECK "SHUFFLE_DECK"
+#define MERGE_DECKS "MERGE_DECKS"
+#define SPLIT_DECK "SPLIT_DECK"
+#define REVERSE_DECK "REVERSE_DECK"
+#define SHOW_DECK "SHOW_DECK"
+#define SHOW_ALL "SHOW_ALL"
+#define EXIT "EXIT"
+#define SYMBOLS_COUNT 4
+#define SORT_DECK "SORT_DECK"
